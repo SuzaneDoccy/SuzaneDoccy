@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wavin&color=#CD853F&height=120&section=header"/>
 <p align="center">Olá, eu sou Suzane de Jesus. Seja bem-vindo(a) ao meu perfil no Github. Fique a vontade para explorar.</p>
 
 <div align="center">
